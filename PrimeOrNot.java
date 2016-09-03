@@ -3,7 +3,6 @@ package primeornot;
 import java.util.Scanner;
 
 /**
- *
  * @author Adarsh
  */
 public class PrimeOrNot {
