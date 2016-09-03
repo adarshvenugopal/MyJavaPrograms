@@ -3,6 +3,7 @@ package primeornot;
 import java.util.Scanner;
 
 /**
+ * Time Complexity of this program is O(√n)
  * @author Adarsh
  */
 public class PrimeOrNot {
