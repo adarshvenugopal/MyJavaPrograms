@@ -3,7 +3,7 @@ package numberreverse;
 import java.util.Scanner;
 
 /**
- *
+ * Time complexity of this program is O(n)
  * @author Adarsh
  */
 public class NumberReverse {
